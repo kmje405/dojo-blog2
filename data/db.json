@@ -1,0 +1,142 @@
+{
+    "blogs": [
+        {
+            "title": "My First Blog",
+            "body": "this is my first blog",
+            "author": "mario",
+            "id": 1
+        },
+        {
+            "title": "My Second Blog",
+            "body": "this is my second blog",
+            "author": "luigi",
+            "id": 2
+        },
+        {
+            "title": "My Third Blog",
+            "body": "this is my third blog",
+            "author": "mario",
+            "id": 3
+        },
+        {
+            "title": "Exploring The Great Outdoors",
+            "body": "What a wonderful world we live in! This blog post shares my recent adventures in the wilderness.",
+            "author": "Peach",
+            "id": 4
+        },
+        {
+            "title": "The Joy of Cooking",
+            "body": "Cooking is a form of art. Here's a look at my culinary journey and some favourite recipes.",
+            "author": "Toad",
+            "id": 5
+        },
+        {
+            "title": "Coding for Beginners",
+            "body": "Ever wanted to learn to code? Here's an introduction to coding concepts for absolute beginners.",
+            "author": "Luigi",
+            "id": 6
+        },
+        {
+            "title": "Travel Diary: Paris",
+            "body": "Paris, the city of love and lights! Join me on my exploration of this vibrant city.",
+            "author": "Mario",
+            "id": 7
+        },
+        {
+            "title": "Understanding Machine Learning",
+            "body": "A deep dive into the world of machine learning and its applications in various industries.",
+            "author": "Rosalina",
+            "id": 8
+        },
+        {
+            "title": "Gardening: A Therapy",
+            "body": "Gardening can be therapeutic. Here's my experience with nurturing plants and my mental health.",
+            "author": "Daisy",
+            "id": 9
+        },
+        {
+            "title": "Music and Memories",
+            "body": "Exploring the bond between music and memories, and the emotion each song can bring.",
+            "author": "Wario",
+            "id": 10
+        },
+        {
+            "title": "Fitness: A Lifestyle, Not A Chore",
+            "body": "Fitness is not about being better than someone else. It's about being better than you used to be.",
+            "author": "Waluigi",
+            "id": 11
+        },
+        {
+            "title": "Life in Space",
+            "body": "Have you ever wondered what life is like in space? Let's take a look at the life of astronauts.",
+            "author": "Rosalina",
+            "id": 12
+        },
+        {
+            "title": "The Art of Storytelling",
+            "body": "Storytelling is an ancient art form. Explore its importance and impact on human civilization.",
+            "author": "Peach",
+            "id": 13
+        },
+        {
+            "title": "Discovering New Genres of Music",
+            "body": "A guide to exploring music from different cultures and expanding your musical tastes.",
+            "author": "Mario",
+            "id": 14
+        },
+        {
+            "title": "Photography: Capturing Moments",
+            "body": "Photography isn't just about clicking pictures. It's about capturing moments and emotions.",
+            "author": "Luigi",
+            "id": 15
+        },
+        {
+            "title": "Exploring The World Of Poetry",
+            "body": "Poetry is a powerful form of expression. Let's dive into its world and understand its beauty.",
+            "author": "Daisy",
+            "id": 16
+        },
+        {
+            "title": "Sustainable Living: Small Changes, Big Impact",
+            "body": "Living sustainably isn't difficult. Here are a few small changes that can have a big impact.",
+            "author": "Toad",
+            "id": 17
+        },
+        {
+            "title": "A Gamer's Diary",
+            "body": "Join me on my adventures in various gaming worlds, and let's talk about gaming culture.",
+            "author": "Wario",
+            "id": 18
+        },
+        {
+            "title": "The Magic of Books",
+            "body": "Books can take you to different worlds. Here's a list of my favourite books and why I love them.",
+            "author": "Peach",
+            "id": 19
+        },
+        {
+            "title": "Making Sense of Cryptocurrency",
+            "body": "Cryptocurrency is changing the world. Here's a simple explanation to understand how it works.",
+            "author": "Waluigi",
+            "id": 20
+        },
+        {
+            "title": "Climate Change: A Reality We Must Face",
+            "body": "Climate change is a pressing issue. Let's discuss the causes, effects, and what we can do about it.",
+            "author": "Rosalina",
+            "id": 21
+        },
+        {
+            "title": "The Beauty of Mathematics",
+            "body": "Math is more than numbers and equations. Let's explore the beauty and application of mathematics.",
+            "author": "Luigi",
+            "id": 22
+        },
+        {
+            "title": "The Power of Positive Thinking",
+            "body": "Positive thinking can change your life. Here's how to cultivate a positive mindset.",
+            "author": "Mario",
+            "id": 23
+        }
+    ]
+}
